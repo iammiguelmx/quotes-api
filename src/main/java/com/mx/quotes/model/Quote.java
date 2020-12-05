@@ -13,7 +13,6 @@ import java.io.Serializable;
 @Getter
 @Setter
 @ToString
-
 @Document(collection = "Quote")
 public class Quote implements Serializable {
 
